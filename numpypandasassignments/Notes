@@ -1,0 +1,6 @@
+Numpy Cheat Sheet
+
+Initializing Array 
+                    --> np.array([1, 2, 3, 4, 5])
+                    --> np.arange(x, y).reshape(m, n)
+                    --> np.random.randint(x, y, size=(m, n))
