@@ -4,3 +4,23 @@ Initializing Array
                     --> np.array([1, 2, 3, 4, 5])
                     --> np.arange(x, y).reshape(m, n)
                     --> np.random.randint(x, y, size=(m, n))
+
+
+
+
+
+
+
+Pandas ::
+    consists of series and dataframe...
+    series 1D array like structure and Dataframe is like 2D structure
+    
+
+indexing:
+    loc and iloc
+    loc for label based indexing and iloc for index based indexing
+    example of loc : employee_df.loc['salary'] returns series of salary
+    example of iloc: employee_df.iloc[2] returns series of 2nd column in the dataframe 
+
+Cleaning: 
+    
